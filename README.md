@@ -1,1 +1,1 @@
-This application allows a user to create "Dojos" and "Ninjas" to those dojos.
+This application allows a user to create "Dojos" and add "Ninjas" to those dojos.
